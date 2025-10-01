@@ -11,7 +11,7 @@ function checarBotaoAlerta() {
 
 function checarBotaoPrompt() {
     let cidade = prompt ('Digite o nome de uma cidade do Brasil em que você visitou e gostou muito!');
-    alert (`Estive em ${cidade} e lembrei de você.`);
+    alert (`Estive em ${cidade} e lembrei de você!`);
 }
 
 function checarBotaoSoma() {
